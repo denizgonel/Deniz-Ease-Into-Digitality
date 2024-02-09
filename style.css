@@ -1,0 +1,32 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 20px;
+}
+
+
+.entry {
+    margin-bottom: 30px;
+}
+
+.entry pre {
+    white-space: pre-wrap;
+    font-size: 16px;
+}
+
+.entry pre .large {
+    font-size: 30px; 
+}
+
+.entry pre .bold {
+    font-weight: bold;
+}
+
+.entry pre .italic {
+    font-style: italic;
+}
+
+.entry pre .underline {
+    text-decoration: underline;
+}
